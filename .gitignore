@@ -1,0 +1,4 @@
+.~lock.*
+*.csv
+venv
+.venv

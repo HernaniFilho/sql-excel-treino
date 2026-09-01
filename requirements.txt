@@ -1,0 +1,5 @@
+Faker
+pandas
+
+random
+sqlite3
