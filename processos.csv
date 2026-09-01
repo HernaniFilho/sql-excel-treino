@@ -1,0 +1,26 @@
+﻿processo_id,servidor_id,tipo,status,data_abertura
+0,2,Sindicância,Arquivado,04-22-26
+1,2,Sindicância,Arquivado,10-12-25
+2,2,Processo Administrativo Disciplinar,Arquivado,02-24-26
+3,9,Sindicância,Concluído,05-05-26
+4,3,Processo Administrativo Disciplinar,Suspenso,10-19-25
+5,4,Sindicância,Arquivado,05-12-26
+6,6,Sindicância,Arquivado,10-13-25
+7,0,Correição,Arquivado,06-05-26
+8,7,Processo Administrativo Disciplinar,Arquivado,01-09-26
+9,9,Processo Administrativo Disciplinar,Arquivado,01-10-26
+10,4,Correição,Arquivado,12-04-25
+11,0,Correição,Arquivado,03-05-26
+12,8,Sindicância,Concluído,05-25-26
+13,4,Sindicância,Em andamento,11-03-25
+14,6,Correição,Arquivado,11-06-25
+15,9,Correição,Suspenso,01-26-26
+16,7,Sindicância,Arquivado,12-31-25
+17,5,Processo Administrativo Disciplinar,Arquivado,04-22-26
+18,3,Processo Administrativo Disciplinar,Concluído,04-19-26
+19,7,Processo Administrativo Disciplinar,Concluído,06-23-26
+20,1,Correição,Em andamento,02-10-26
+21,0,Processo Administrativo Disciplinar,Em andamento,06-13-26
+22,9,Processo Administrativo Disciplinar,Arquivado,06-09-26
+23,8,Sindicância,Arquivado,07-14-26
+24,3,Correição,Arquivado,03-22-26

@@ -1,0 +1,26 @@
+﻿servidor_id,nome,cargo,lotacao,processo_id,tipo,status,data_abertura
+2,Srta. Ana Luiza Jesus,Assessor,Secretaria-Geral,0,Sindicância,Arquivado,04-22-26
+2,Srta. Ana Luiza Jesus,Assessor,Secretaria-Geral,1,Sindicância,Arquivado,10-12-25
+2,Srta. Ana Luiza Jesus,Assessor,Secretaria-Geral,2,Processo Administrativo Disciplinar,Arquivado,02-24-26
+9,Ágatha Farias,Tecnico,SGE,3,Sindicância,Concluído,05-05-26
+3,Davi da Rosa,Tecnico,SGE,4,Processo Administrativo Disciplinar,Suspenso,10-19-25
+4,Dra. Giovanna Cirino,Analista,Corregedoria,5,Sindicância,Arquivado,05-12-26
+6,Dr. Vitor Câmara,Analista,Secretaria-Geral,6,Sindicância,Arquivado,10-13-25
+0,Sr. Apollo Melo,Assessor,Corregedoria,7,Correição,Arquivado,06-05-26
+7,Dr. Vitor Gabriel Viana,Analista,SGE,8,Processo Administrativo Disciplinar,Arquivado,01-09-26
+9,Ágatha Farias,Tecnico,SGE,9,Processo Administrativo Disciplinar,Arquivado,01-10-26
+4,Dra. Giovanna Cirino,Analista,Corregedoria,10,Correição,Arquivado,12-04-25
+0,Sr. Apollo Melo,Assessor,Corregedoria,11,Correição,Arquivado,03-05-26
+8,Raquel Vasconcelos,Analista,SGE,12,Sindicância,Concluído,05-25-26
+4,Dra. Giovanna Cirino,Analista,Corregedoria,13,Sindicância,Em andamento,11-03-25
+6,Dr. Vitor Câmara,Analista,Secretaria-Geral,14,Correição,Arquivado,11-06-25
+9,Ágatha Farias,Tecnico,SGE,15,Correição,Suspenso,01-26-26
+7,Dr. Vitor Gabriel Viana,Analista,SGE,16,Sindicância,Arquivado,12-31-25
+5,Otto Ribeiro,Analista,STI,17,Processo Administrativo Disciplinar,Arquivado,04-22-26
+3,Davi da Rosa,Tecnico,SGE,18,Processo Administrativo Disciplinar,Concluído,04-19-26
+7,Dr. Vitor Gabriel Viana,Analista,SGE,19,Processo Administrativo Disciplinar,Concluído,06-23-26
+1,Dr. Leandro Correia,Assessor,Secretaria-Geral,20,Correição,Em andamento,02-10-26
+0,Sr. Apollo Melo,Assessor,Corregedoria,21,Processo Administrativo Disciplinar,Em andamento,06-13-26
+9,Ágatha Farias,Tecnico,SGE,22,Processo Administrativo Disciplinar,Arquivado,06-09-26
+8,Raquel Vasconcelos,Analista,SGE,23,Sindicância,Arquivado,07-14-26
+3,Davi da Rosa,Tecnico,SGE,24,Correição,Arquivado,03-22-26
